@@ -1,0 +1,50 @@
+{
+  "basic_info": {
+    
+    "description_header": "العربية",
+    "description":".أنا علي محمد😃. مهندس برمجيات ذو موقف إيجابي :) أنا شخص أحب تعلم أي شيء جديد والحصول على المزيد من الخبرات. ما تراه الآن هو أعمالي. شكرًا لأخذ وقتك فقط لروْية هذه الصفحة ",
+    "section_name": {
+      "about": "لمعرفتي",
+      "projects": "مشاريع",
+      "skills": "مهارات",
+      "experience": "خبرات"
+    }
+  },
+  "projects": [
+    {
+      "title": "HornedBeast",
+      "startDate": "2022",
+      "description": ":)مشروع شخصي لموضوع الدراسة. كنت مسؤولاً عن إنشاء موقع ويب للحيوانات ذات القرون. لقد حصلت على درجة عالية",
+      "images": [
+        "images/portfolio/Horned/horned1.jpg",
+        "images/portfolio/Horned/horned2.jpg"
+      ],
+      "url": "https://github.com/AliMohammad420/hornedbeast",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }],
+  "experience": [
+    {
+      "company": "Code Fellows",
+      "title": "JavaScript Developer",
+      "years": "06.2022 - 12.2022",
+      "mainTech": [
+        "Full Stack JavaScript"
+      ],
+      "technologies": [
+        "Mongo",
+        "NodeJs",
+        "JavaScript",
+        "ReactJs"
+      ]
+    }
+  ]
+}
